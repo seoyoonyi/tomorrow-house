@@ -1,5 +1,9 @@
 p {
-    color: red;
-    font-size: 18;
-    font-weight: 100;
+  display: block;
+  color: #222;
+  text-transform: lowercase;
+}
+
+*{
+  font-family: 'Noto Sans KR', sans-serif;
 }
